@@ -1,0 +1,25 @@
+unit UnitCadResponsaveis;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  Tfrm_cadResponsaveis = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    frm_cadResponsaveis: Tfrm_cadResponsaveis;
+  end;
+
+var
+  frm_cadResponsaveis: Tfrm_cadResponsaveis;
+
+implementation
+
+{$R *.dfm}
+
+end.

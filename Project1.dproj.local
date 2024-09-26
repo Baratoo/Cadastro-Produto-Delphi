@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/26 12:28:52.000.899,=D:\Usuários\Barato\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/26 12:29:54.000.521,D:\Usuários\Barato\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Usuários\Barato\Documents\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2024/09/26 12:29:54.000.521,D:\Usuários\Barato\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Usuários\Barato\Documents\Delphi\Unit1.pas</Transaction>
+    <Transaction>2024/09/26 12:30:57.000.973,D:\Usuários\Barato\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Usuários\Barato\Documents\Delphi\Project1.dproj</Transaction>
+    <Transaction>2024/09/26 12:39:47.000.982,=D:\Usuários\Barato\Documents\Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/09/26 12:41:09.000.071,D:\Usuários\Barato\Documents\Delphi\Unit2.dfm=D:\Usuários\Barato\Documents\Delphi\Responsaveis\UnitCadResponsaveis.dfm</Transaction>
+    <Transaction>2024/09/26 12:41:09.000.071,D:\Usuários\Barato\Documents\Delphi\Unit2.pas=D:\Usuários\Barato\Documents\Delphi\Responsaveis\UnitCadResponsaveis.pas</Transaction>
+    <Transaction>2024/09/26 12:54:57.000.593,=D:\Usuários\Barato\Documents\Delphi\Unit2.pas</Transaction>
+    <Transaction>2024/09/26 12:55:10.000.883,D:\Usuários\Barato\Documents\Delphi\Unit2.pas=D:\Usuários\Barato\Documents\Delphi\DataModule\UnitDataModule.pas</Transaction>
+    <Transaction>2024/09/26 12:55:10.000.883,D:\Usuários\Barato\Documents\Delphi\Unit2.dfm=D:\Usuários\Barato\Documents\Delphi\DataModule\UnitDataModule.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,14 @@
+﻿object DataModule2: TDataModule2
+  Height = 330
+  Width = 378
+  object conexão: TFDConnection
+    Params.Strings = (
+      'Database=springboot'
+      'User_Name=root'
+      'Password=root'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 136
+    Top = 184
+  end
+end
